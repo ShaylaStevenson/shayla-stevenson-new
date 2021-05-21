@@ -26,7 +26,7 @@
     {
         "id": "3",
         "title": "Workout Tracker",
-        "image": "assets/images/workout-tracker-400.png",
+        "image": "./assets/images/workout-tracker-400.png",
         "liveUrl": "https://dry-wildwood-27410.herokuapp.com/?id=608337663f09dc00152004e3",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/workout-tracker",
         "details": "Monitor, add, and update workout activities"
@@ -34,7 +34,7 @@
     {
         "id": "4",
         "title": "Employee Tracker",
-        "image": "assets/images/employee-tracker-400.png",
+        "image": "./assets/images/employee-tracker-400.png",
         "liveUrl":"",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/employee-tracker",
         "details": "Allow an organization to add, delete, and edit database of departments, roles, and employees."
@@ -42,7 +42,7 @@
     {
         "id": "5",
         "title": "Personal Portfolio",
-        "image": "assets/images/portfolio-400.png",
+        "image": "/assets/images/portfolio-400.png",
         "liveUrl": "https://shaylastevenson.github.io/shayla-stevenson-new/",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/shayla-stevenson-new",
         "details": "My portfolio's version using React"
