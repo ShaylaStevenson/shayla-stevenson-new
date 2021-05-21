@@ -1,19 +1,11 @@
 import React from "react";
 import "./style.css";
-//import data from "../../scripts/projectData.json";
 
 function ProjectCard(props) {
-  //const image = props.image
-  //console.log(image)
   return (
     <div className="col-md-4">
-      {/* <div className="card my-1 project-card" style={{ backgroundImage: "url(" + props.image + ")", height: "300px"}}> */}
-      <img src={`${process.env.PUBLIC_URL}/${props.image}`} alt="project screenshot" />
-      {/* backgroundImage: "url(" + Background + ")" */}
-        {/* style={{backgroundImage: "url(" + image + ")", height: "300px"}} */}
-        {/* <div style={{backgroundImage: "url(" + props.image + ")", width: 100}}></div> */}
-      
-        {/* className="img-container"<img alt={props.image} src={props.image} /> */}
+      <div className="card my-1 project-card" style={{ backgroundImage: `url( ${process.env.PUBLIC_URL}/${props.image} )`, height: "300px"}}>
+      {/* <img src={`${process.env.PUBLIC_URL}/${props.image}`} alt="project screenshot" /> */}
           <div className="card-content opaq-bg m-4"> 
               <h4 className="card-title mt-4">
                 <strong>{props.title}</strong>
@@ -26,9 +18,7 @@ function ProjectCard(props) {
                 </div>
               </div>
           </div>
-    
-        
-      {/* </div> */}
+      </div>
     </div>
    );
 }
