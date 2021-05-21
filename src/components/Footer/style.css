@@ -1,0 +1,14 @@
+.custom-footer {
+    background-color: lightblue;
+    font-size: calc(24px + 1.5vw);
+    display: flex;
+    justify-content: center;
+}
+
+.custom-footer .icon {
+    color: rgb(72, 40, 146);
+}
+
+.custom-footer .icon:hover {
+    color: rgb(240, 149, 14);
+}
