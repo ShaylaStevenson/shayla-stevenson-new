@@ -4,9 +4,11 @@ import "./style.css";
 
 function ProjectCard(props) {
   //const image = props.image
+  //console.log(image)
   return (
     <div className="col-md-4">
       <div className="card my-1 project-card" style={{ backgroundImage: "url(" + props.image + ")", height: "300px"}}>
+      {/* backgroundImage: "url(" + Background + ")" */}
         {/* style={{backgroundImage: "url(" + image + ")", height: "300px"}} */}
         {/* <div style={{backgroundImage: "url(" + props.image + ")", width: 100}}></div> */}
       
