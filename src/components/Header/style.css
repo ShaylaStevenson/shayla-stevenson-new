@@ -1,0 +1,19 @@
+.hero {
+    margin-bottom: calc(0px + 1vw);
+    background-color: rgba(63, 46, 63, 0.8);
+}
+
+#greeting-div {
+    background-color: lightblue;
+    text-align: end;
+}
+
+#greeting-div h1 {
+    font-size: calc(18px + 4.5vw);
+}
+
+#greeting {
+    color: rgb(240, 149, 14);
+    font-weight: bold;
+    text-shadow: -1px -1px 0 rgb(72, 40, 146), 1px -1px 0 rgb(72, 40, 146), -1px 1px 0 rgb(72, 40, 146), 1px 1px 0 rgb(72, 40, 146);
+}
