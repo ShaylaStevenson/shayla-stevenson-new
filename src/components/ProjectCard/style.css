@@ -8,7 +8,7 @@
     /* background-color: #9dc5c3;
     background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%); */
 
-    background-color: #d9e4f53f;
+    background-color: #d9e4f560;
     background-image: linear-gradient(315deg, #d9e4f554 0%, #f5e3e65d 74%);
 
     background-size: contain;
@@ -20,7 +20,7 @@
 .card-text,
 .card-text a
 {
-    color: rgb(255, 255, 255);
+    color: rgb(70, 70, 73);
 }
 
 .card-title:hover {
@@ -28,9 +28,13 @@
 }
 
 .card-text:hover {
-    color:grey;
+    color:rgb(46, 42, 42);
+    font-size: larger;
+    font-weight: bolder;
 }
 
 .card-text a:hover {
-    color: orange
+    color: orange;
+    font-size: larger;
+    font-weight: bolder;
 }
