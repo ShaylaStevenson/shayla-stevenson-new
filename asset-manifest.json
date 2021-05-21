@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shayla-stevenson-new/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/shayla-stevenson-new/static/js/main.07ec8be8.chunk.js",
+    "main.js.map": "/shayla-stevenson-new/static/js/main.07ec8be8.chunk.js.map",
+    "runtime-main.js": "/shayla-stevenson-new/static/js/runtime-main.7f3304f0.js",
+    "runtime-main.js.map": "/shayla-stevenson-new/static/js/runtime-main.7f3304f0.js.map",
+    "static/js/2.e6f7afec.chunk.js": "/shayla-stevenson-new/static/js/2.e6f7afec.chunk.js",
+    "static/js/2.e6f7afec.chunk.js.map": "/shayla-stevenson-new/static/js/2.e6f7afec.chunk.js.map",
+    "static/js/3.c3eeaa53.chunk.js": "/shayla-stevenson-new/static/js/3.c3eeaa53.chunk.js",
+    "static/js/3.c3eeaa53.chunk.js.map": "/shayla-stevenson-new/static/js/3.c3eeaa53.chunk.js.map",
+    "index.html": "/shayla-stevenson-new/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/shayla-stevenson-new/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e6f7afec.chunk.js.LICENSE.txt": "/shayla-stevenson-new/static/js/2.e6f7afec.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shayla-stevenson-new/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f3304f0.js",
+    "static/js/2.e6f7afec.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.07ec8be8.chunk.js"
+  ]
+}
