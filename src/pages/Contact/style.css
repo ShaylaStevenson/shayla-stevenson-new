@@ -1,0 +1,57 @@
+#contact-greeting {
+    border-color:darkmagenta;
+    border-width: 15px;
+    border-style: solid;
+    background-color:lightblue;
+    color:rgb(72, 40, 146);
+    font-size: 5.5vw;
+    text-align:end;
+}
+
+#myInfo {
+    color: slategray;
+    background-color: white;
+    font-size: calc(16px + .5vw);
+    text-align: end;
+    border-color: lightblue;
+    border-width: 15px;
+    border-style: solid;
+    
+}
+
+#myInfo h5 {
+    font-size: calc(22px + .5vw);
+    font-weight: bold;
+}
+
+#myInfo a {
+    color: slategray;
+}
+
+#myInfo a:hover {
+    color: rgb(240, 149, 14);
+    text-decoration: none;
+}
+
+/**Form**/
+.form-text {
+    text-align: end;
+}
+
+form label {
+    font-size: 1em;
+    font-weight: bolder;
+}
+
+#submit-button {
+    background-color: darkmagenta;
+    color: white
+}
+
+#submit-button:hover {
+    color:rgb(240, 149, 14);
+}
+
+#submit-button:focus {
+    color:lightblue;
+}
