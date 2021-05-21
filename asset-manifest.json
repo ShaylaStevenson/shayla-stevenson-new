@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shayla-stevenson-new/static/css/main.c0dbcddc.chunk.css",
-    "main.js": "/shayla-stevenson-new/static/js/main.e247f2df.chunk.js",
-    "main.js.map": "/shayla-stevenson-new/static/js/main.e247f2df.chunk.js.map",
+    "main.js": "/shayla-stevenson-new/static/js/main.46227d0b.chunk.js",
+    "main.js.map": "/shayla-stevenson-new/static/js/main.46227d0b.chunk.js.map",
     "runtime-main.js": "/shayla-stevenson-new/static/js/runtime-main.ecdb8734.js",
     "runtime-main.js.map": "/shayla-stevenson-new/static/js/runtime-main.ecdb8734.js.map",
     "static/css/2.61b4cb56.chunk.css": "/shayla-stevenson-new/static/css/2.61b4cb56.chunk.css",
@@ -13,20 +13,13 @@
     "index.html": "/shayla-stevenson-new/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/shayla-stevenson-new/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.c0dbcddc.chunk.css.map": "/shayla-stevenson-new/static/css/main.c0dbcddc.chunk.css.map",
-    "static/js/2.b2784dfe.chunk.js.LICENSE.txt": "/shayla-stevenson-new/static/js/2.b2784dfe.chunk.js.LICENSE.txt",
-    "static/media/Resume - Google Docs.2e938754.pdf": "/shayla-stevenson-new/static/media/Resume - Google Docs.2e938754.pdf",
-    "static/media/brief-400.5440dddc.png": "/shayla-stevenson-new/static/media/brief-400.5440dddc.png",
-    "static/media/employee-directory-400.0b0eb61f.png": "/shayla-stevenson-new/static/media/employee-directory-400.0b0eb61f.png",
-    "static/media/employee-tracker-400.6f01178e.png": "/shayla-stevenson-new/static/media/employee-tracker-400.6f01178e.png",
-    "static/media/pet-seeker-palooza-400.a8cfb1a8.png": "/shayla-stevenson-new/static/media/pet-seeker-palooza-400.a8cfb1a8.png",
-    "static/media/portfolio-400.597190e3.png": "/shayla-stevenson-new/static/media/portfolio-400.597190e3.png",
-    "static/media/workout-tracker-400.f2249201.png": "/shayla-stevenson-new/static/media/workout-tracker-400.f2249201.png"
+    "static/js/2.b2784dfe.chunk.js.LICENSE.txt": "/shayla-stevenson-new/static/js/2.b2784dfe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ecdb8734.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.b2784dfe.chunk.js",
     "static/css/main.c0dbcddc.chunk.css",
-    "static/js/main.e247f2df.chunk.js"
+    "static/js/main.46227d0b.chunk.js"
   ]
 }
