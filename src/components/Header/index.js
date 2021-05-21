@@ -24,6 +24,7 @@ function Header(props) {
                 <div className="col-md-4" id="image-div">
                     <img src={"assets/images/myphoto.jpg"} className="img-thumbnail img-responsive" alt="Shayla Stevenson"/>
                     <img src={"../../assets/images/myphoto.jpg"} className="img-thumbnail img-responsive" alt="Shayla Stevenson"/>
+                    <img src={"../../../assets/images/myphoto.jpg"} className="img-thumbnail img-responsive" alt="Shayla Stevenson"/>
                 </div>
 
             </div>

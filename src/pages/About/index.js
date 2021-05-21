@@ -3,22 +3,21 @@ import React from "react";
 function About() {
     return(
         <div>
-            <h1>About ME</h1>
+            <h1>About Me</h1>
             <p>
-                There is no god, Summer; gotta rip that band-aid off now you'll thank me later.
-                Quote mode. What the fuck is going on?! 25 shmeckles?
-                I-I-I-I don't even know what that- what is that? Is that a lot?
+                I am a Full-stack Web Developer with experience building databases using Sequelize and Mongo, as well as JavaScript libraries including React.
+                The skills that I am acquiring through my education at the Trilogy Full-stack Web Development program allow
+                me to develop fully functioning, responsive web applications.
             </p>
             <p>
-                Morty, can you get to the left nipple? Those guys are inside you building a piece
-                of shit Ethan! They're inside you building a monument to compromise! Fuck them,
-                fuck those people, fuck this whole thing Ethan. Shut the fuck up about moonmen! Puffy vagina.
+                My mission is to work with local businesses to allow them professional representation in an online market. My background
+                in business management provides me a unique perspective in web development. At the heart of my designs is the concept of the user's experience.
+                Your employees and customers will use my sites intuitivly, which is achieved by efficient flow and navigation throughout the applications.
             </p>
             <p>
-                Shadow Jacker, you haven't come out of your masturbation cave in eons! I'd like to order one large
-                sofa chair with extra chair please. high chair, no no no recliner... and wheelchair on half. Yea.
-                If you spend all day shuffling words around you can make anything sound bad, Morty. The fucking
-                amish bitch shot me!
+                Your website is your organization's home. As such, I want its guests to feel welcome and comfortable. Your website should represent your 
+                businesses' unique message and style. The first stage in my design process is to get to know your brand in order to create a space that supports
+                its mission. Then, through frequent colaboration, we can build the site that fits you.
             </p>
         </div>
     )
