@@ -3,6 +3,12 @@ import React from "react";
 import MainContainer from "./components/MainContainer";
 import './index.css';
 import './App.css';
+import "./assets/images/brief-400.png";
+import "./assets/images/employee-tracker-400.png";
+import "./assets/images/employee-directory-400.png";
+import "./assets/images/pet-seeker-palooza-400.png";
+import "./assets/images/portfolio-400.png";
+import "./assets/images/workout-tracker-400.png";
 
 const App = () => <MainContainer />;
 
