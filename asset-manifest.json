@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shayla-stevenson-new/static/css/main.f3638d89.chunk.css",
+    "main.css": "/shayla-stevenson-new/static/css/main.ab552311.chunk.css",
     "main.js": "/shayla-stevenson-new/static/js/main.80dc2a77.chunk.js",
     "main.js.map": "/shayla-stevenson-new/static/js/main.80dc2a77.chunk.js.map",
     "runtime-main.js": "/shayla-stevenson-new/static/js/runtime-main.56133f87.js",
@@ -12,14 +12,14 @@
     "static/js/3.ae5ab5ef.chunk.js.map": "/shayla-stevenson-new/static/js/3.ae5ab5ef.chunk.js.map",
     "index.html": "/shayla-stevenson-new/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/shayla-stevenson-new/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.f3638d89.chunk.css.map": "/shayla-stevenson-new/static/css/main.f3638d89.chunk.css.map",
+    "static/css/main.ab552311.chunk.css.map": "/shayla-stevenson-new/static/css/main.ab552311.chunk.css.map",
     "static/js/2.a9fac27f.chunk.js.LICENSE.txt": "/shayla-stevenson-new/static/js/2.a9fac27f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.56133f87.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.a9fac27f.chunk.js",
-    "static/css/main.f3638d89.chunk.css",
+    "static/css/main.ab552311.chunk.css",
     "static/js/main.80dc2a77.chunk.js"
   ]
 }
