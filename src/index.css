@@ -1,4 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+
 body {
+  background-color: rgb(43, 41, 41);
+  color: rgb(145, 125, 192);
+  font-family: 'Dosis', sans-serif;
+  /* background-image: url("images/bamboo-fill.jpg");
+  background-repeat: repeat;
+  background-size: cover; */
+  padding-top: calc(60px + 2vw);
+  padding-bottom: calc(60px + 1vw);
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +25,4 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
+} */
