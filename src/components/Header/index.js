@@ -3,8 +3,8 @@ import "./style.css";
 // import imageData from "../../assets/scripts/imageData.json";
 
 function Header(props) {
-  console.log(imageData);
-  console.log(imageData[0].url);
+  // console.log(imageData);
+  // console.log(imageData[0].url);
   return (
     
     // <div className="hero text-center">
