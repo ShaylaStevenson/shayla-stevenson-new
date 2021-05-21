@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./style.css";
-import resume from "../../assets/images/Resume - Google Docs.pdf";
+// import resume from "../../assets/images/Resume - Google Docs.pdf";
 
 function Contact() {
   const [username, setUsername] = useState();
@@ -28,7 +28,7 @@ function Contact() {
                 <div id="myInfo" className="m-2 p-2">
                     <h5>More ways to get in touch</h5>
                     <p>shayla.rose.stevenson@gmail.com</p>
-                    <a href={resume} target="_blank" rel="noreferrer">View my resume</a>
+                    <a href={`${process.env.PUBLIC_URL}/assets/images/Resume - Google Docs.pdf`} target="_blank" rel="noreferrer">View my resume</a>
                 </div>
             </div>
     {/* form */}

@@ -1,4 +1,4 @@
-export default [
+const projectData = [
     {
         "id": "0",
         "title": "Pet Seeker Palooza",
@@ -10,7 +10,7 @@ export default [
     {
         "id": "1",
         "title": "Your Day in Brief",
-        "image": "assets/images/brief-400.png",
+        "image": "/assets/images/brief-400.png",
         "liveUrl": "https://connerjm.github.io/Your-Day-in-Brief/",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/Your-Day-in-Brief",
         "details": "Get top news stories daily, selected by category."
@@ -18,7 +18,7 @@ export default [
     {
         "id": "2",
         "title": "Employee Directory",
-        "image": "src/assets/images/employee-directory-400.png",
+        "image": "/assets/images/employee-directory-400.png",
         "liveUrl": "https://shaylastevenson.github.io/employee-directory/",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/employee-directory",
         "details": "Find pertinent employee details with image using react"
@@ -26,7 +26,7 @@ export default [
     {
         "id": "3",
         "title": "Workout Tracker",
-        "image": "src/assets/images/workout-tracker-400.png",
+        "image": "/assets/images/workout-tracker-400.png",
         "liveUrl": "https://dry-wildwood-27410.herokuapp.com/?id=608337663f09dc00152004e3",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/workout-tracker",
         "details": "Monitor, add, and update workout activities"
@@ -34,7 +34,7 @@ export default [
     {
         "id": "4",
         "title": "Employee Tracker",
-        "image": "src/assets/images/employee-tracker-400.png",
+        "image": "/assets/images/employee-tracker-400.png",
         "liveUrl":"",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/employee-tracker",
         "details": "Allow an organization to add, delete, and edit database of departments, roles, and employees."
@@ -42,9 +42,11 @@ export default [
     {
         "id": "5",
         "title": "Personal Portfolio",
-        "image": "src/assets/images/portfolio-400.png",
+        "image": "/assets/images/portfolio-400.png",
         "liveUrl": "https://shaylastevenson.github.io/shayla-stevenson-new/",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/shayla-stevenson-new",
         "details": "My portfolio's version using React"
     }
 ]
+
+export default projectData
