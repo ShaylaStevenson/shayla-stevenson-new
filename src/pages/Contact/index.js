@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./style.css";
-import imageData from "../../assets/scripts/imageData.json";
+//import imageData from "../../assets/scripts/imageData.json";
 
 function Contact() {
   const [username, setUsername] = useState();
@@ -28,7 +28,7 @@ function Contact() {
                 <div id="myInfo" className="m-2 p-2">
                     <h5>More ways to get in touch</h5>
                     <p>shayla.rose.stevenson@gmail.com</p>
-                    <a href={imageData[2].url} target="_blank">View my resume</a>
+                    <a href="../../assets/images/myphoto.jpg" target="_blank">View my resume</a>
                 </div>
             </div>
     {/* form */}
