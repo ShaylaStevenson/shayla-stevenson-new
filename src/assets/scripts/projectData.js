@@ -1,8 +1,8 @@
-[
+export default [
     {
         "id": "0",
         "title": "Pet Seeker Palooza",
-        "image": "src/assets/images/pet-seeker-palooza-400.png",
+        "image": "/assets/images/pet-seeker-palooza-400.png",
         "liveUrl": "https://shrouded-lake-69367.herokuapp.com/",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/PetSeekerPalooza",
         "details": "Find adoptable pets and share images in a pet-friendly, social environment"
@@ -10,7 +10,7 @@
     {
         "id": "1",
         "title": "Your Day in Brief",
-        "image": "src/assets/images/brief-400.png",
+        "image": "assets/images/brief-400.png",
         "liveUrl": "https://connerjm.github.io/Your-Day-in-Brief/",
         "ghRepoUrl": "https://github.com/ShaylaStevenson/Your-Day-in-Brief",
         "details": "Get top news stories daily, selected by category."

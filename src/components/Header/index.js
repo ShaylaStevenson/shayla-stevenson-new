@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import myphoto from "../../assets/images/myphoto.jpg";
+// import myphoto from "../../assets/images/myphoto.jpg";
 
 function Header(props) {
   // console.log(imageData);
@@ -22,7 +22,7 @@ function Header(props) {
                 </div>
                 {/* <!--image--> */}
                 <div className="col-md-4" id="image-div">
-                    <img src={myphoto} className="img-thumbnail img-responsive" alt="Shayla Stevenson"/>
+                    <img src={`${process.env.PUBLIC_URL}/assets/images/myphoto.jpg`} className="img-thumbnail img-responsive" alt="Shayla Stevenson"/>
                 </div>
 
             </div>

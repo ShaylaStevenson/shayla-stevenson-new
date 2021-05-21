@@ -8,6 +8,7 @@ function ProjectCard(props) {
   return (
     <div className="col-md-4">
       <div className="card my-1 project-card" style={{ backgroundImage: "url(" + props.image + ")", height: "300px"}}>
+      <img src={`${process.env.PUBLIC_URL}/${props.image}`} />
       {/* backgroundImage: "url(" + Background + ")" */}
         {/* style={{backgroundImage: "url(" + image + ")", height: "300px"}} */}
         {/* <div style={{backgroundImage: "url(" + props.image + ")", width: 100}}></div> */}
