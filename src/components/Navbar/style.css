@@ -1,0 +1,26 @@
+.navbar {
+    background-color:rgb(82, 139, 158);
+}
+
+.navbar .navbar-brand a{
+    color:darkmagenta;
+    font-size: calc(18px + 1.3vw);
+}
+
+.navbar .navbar-brand a:hover {
+    color:rgb(95, 8, 95);
+}
+
+/* .navbar-brand img {
+    width: 4vw;
+    height: 4vw;
+} */
+
+#navbarNav li a {
+    color: rgb(72, 40, 146);
+    font-size: calc(12px + 1vw);
+}
+
+#navbarNav li a:hover {
+    color:rgb(240, 149, 14);
+}

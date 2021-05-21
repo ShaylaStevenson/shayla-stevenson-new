@@ -1,0 +1,36 @@
+.project-card {
+    justify-content: center;
+    background-size: contain;
+    
+}
+.opaq-bg {
+    /* background-image: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, .8), rgba(255, 255, 255, .6)); */
+    /* background-color: #9dc5c3;
+    background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%); */
+
+    background-color: #d9e4f53f;
+    background-image: linear-gradient(315deg, #d9e4f554 0%, #f5e3e65d 74%);
+
+    background-size: contain;
+    text-align: center;
+    height: 230px
+}
+
+.card-title,
+.card-text,
+.card-text a
+{
+    color: rgb(255, 255, 255);
+}
+
+.card-title:hover {
+    color:indigo;
+}
+
+.card-text:hover {
+    color:grey;
+}
+
+.card-text a:hover {
+    color: orange
+}
